@@ -1,5 +1,12 @@
 # @web3icons/utils
 
+## 0.3.18
+
+### Patch Changes
+
+- Add Vaulta network
+- Add Vaulta (A) token
+
 ## 0.3.17
 
 ### Patch Changes
